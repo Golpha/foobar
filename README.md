@@ -1,0 +1,8 @@
+---
+title: foobar
+---
+
+foobar
+======
+
+foobar
